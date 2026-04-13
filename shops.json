@@ -22,5 +22,53 @@
     "inhaber": "Businezz, EinfachNurMelon",
     "shopart": "OP Shop",
     "fundort": "CB02"
-  }  
+  },  
+  {
+    "name": "/sw dom",
+    "inhaber": "Mincraftmachtfun",
+    "shopart": "Allgemein",
+    "fundort": "CB02"
+  },
+  {
+    "name": "/sw shop",
+    "inhaber": "Mincraftmachtfun",
+    "shopart": "Allgemein",
+    "fundort": "CB02, CB01"
+  },
+  {
+    "name": "/sw DekoItems",
+    "inhaber": "Businezz",
+    "shopart": "Deko Items",
+    "fundort": "CB02"
+  },
+  {
+    "name": "/sw kartenshop",
+    "inhaber": "Spacelear",
+    "shopart": "Kartenshop",
+    "fundort": "CB02"
+  },
+  {
+    "name": "/sw TS",
+    "inhaber": "LamaRamaDingDong",
+    "shopart": "OP Shop",
+    "fundort": "CB01"
+  },
+  {
+    "name": "/sw no1",
+    "inhaber": "Kolja_TV",
+    "shopart": "OP Shop/Allgemein",
+    "fundort": "CB03"
+  },
+  {
+    "name": "/sw xd",
+    "inhaber": "Cwurled",
+    "shopart": "OP Shop/Allgemein",
+    "fundort": "CB02"
+  },
+  {
+    "name": "/sw bk",
+    "inhaber": "ChronoKora",
+    "shopart": "Büchershop",
+    "fundort": "CB01"
+  },
 ]
