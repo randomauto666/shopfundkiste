@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Diamanten Shop",
+    "inhaber": "Steve123",
+    "shopart": "Ressourcen",
+    "fundort": "Spawn, Marktplatz Stand 4"
+  },
+  {
+    "name": "Waffen & Rüstung",
+    "inhaber": "CraftingKing",
+    "shopart": "Ausrüstung",
+    "fundort": "Nether-Hub, Ebene 2"
+  },
+  {
+    "name": "Farmen & Tools",
+    "inhaber": "RedstoneGuru",
+    "shopart": "Werkzeuge",
+    "fundort": "Weststadt, Hauptstraße 7"
+  }
+]
